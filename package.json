@@ -1,18 +1,77 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@f1stnpm2/non-sint-tenetur",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "f1st",
   "license": "MIT",
+  "dependencies": {
+    "@crabas0npm/possimus-fugit-nulla": "^1.0.0",
+    "@f1stnpm/corporis-velit-deleniti-temporibus": "^1.0.0",
+    "@f1stnpm/dolor-officia-est-asperiores": "^1.0.0",
+    "@f1stnpm/ea-sunt-delectus-nihil": "^1.0.0",
+    "@f1stnpm/eius-ab-blanditiis-voluptas": "^1.0.0",
+    "@f1stnpm/molestias-sint-cupiditate-illum": "^1.0.0",
+    "@f1stnpm/repellat-eveniet-pariatur-voluptas": "^1.0.0",
+    "@f1stnpm/tenetur-dicta-praesentium-explicabo": "^1.0.0",
+    "@f1stnpm/vitae-blanditiis-sint-tempore": "^1.0.0",
+    "remind-works-8th": "^1.0.2"
+  },
+  "keywords": [
+    "RFC-6455",
+    "Float32Array",
+    "expression",
+    "command",
+    "iam",
+    "ES8",
+    "rgb",
+    "minimal",
+    "findLast",
+    "native",
+    "nested css",
+    "superstruct",
+    "glacier",
+    "elasticache",
+    "ES5",
+    "jwt",
+    "endpoint",
+    "shell",
+    "JSON-Schema",
+    "jsdiff",
+    "curl",
+    "HyBi",
+    "BigInt64Array",
+    "touch",
+    "Push",
+    "ES2018",
+    "styled-components",
+    "code points",
+    "argument",
+    "performant",
+    "l10n",
+    "form-validation",
+    "default",
+    "wordwrap",
+    "watch",
+    "iteration",
+    "password",
+    "ES2022",
+    "xterm",
+    "less.js",
+    "RegExp.prototype.flags",
+    "ponyfill",
+    "String.prototype.trim",
+    "sort",
+    "break",
+    "debug"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/f1stnpm2/non-sint-tenetur.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/f1stnpm2/non-sint-tenetur/#readme",
+  "bugs": {
+    "url": "https://github.com/f1stnpm2/non-sint-tenetur/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
